@@ -1,4 +1,4 @@
-module github.com/bsjohnson01/go-log/v2
+module github.com/bsjohnson01/go-log
 
 require (
 	github.com/mattn/go-isatty v0.0.14
